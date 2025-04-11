@@ -42,7 +42,7 @@ p {
 	position: absolute;
 	left: 0;
 	right: 0;
-	top: -20px;
+	top: 0px;
 	
 	margin: auto;
 	-moz-transform: scale(0.6);
