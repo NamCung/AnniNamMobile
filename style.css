@@ -57,7 +57,7 @@ p {
   
   
   .container .rose-petals > div {
-	background: #d52d58;
+	background: #820707;
 	width: 45px;
 	height: 80px;
 	position: absolute;
@@ -70,7 +70,7 @@ p {
 	border-radius: 15px;
 	left: 20px;
 	top: -6px;
-	background: #d52d58;
+	background: #820707;
   }
   .container .rose-petals > div:nth-child(2), .container .rose-petals > div:nth-child(4), .container .rose-petals > div:nth-child(6) {
 	border-radius: 0px 30px 0px 30px;
