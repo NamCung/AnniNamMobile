@@ -42,8 +42,8 @@ p {
 	position: absolute;
 	left: 0;
 	right: 0;
-	top: 30px;
-	bottom: 0;
+	top: -20px;
+	
 	margin: auto;
 	-moz-transform: scale(0.6);
 	-ms-transform: scale(0.6);
